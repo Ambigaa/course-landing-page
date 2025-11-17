@@ -26,7 +26,7 @@ https://ambigaa.github.io/course-landing-page/
 
 
 
-## Final UI
+## UI
 
 ![Website Screenshot](assets/img/design-lp.png)
 
