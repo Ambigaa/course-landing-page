@@ -21,14 +21,12 @@ https://ambigaa.github.io/course-landing-page/
 
 
 ## Wireframe
-(Add your wireframe screenshot here)
 
 ![Wireframe](assets/img/wireframe-lp.jpg)
 
 
 
 ## Final UI
-(Add your final website screenshot here)
 
 ![Website Screenshot](assets/img/design-lp.png)
 
