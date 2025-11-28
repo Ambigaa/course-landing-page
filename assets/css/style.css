@@ -56,15 +56,14 @@ nav ul li {
 
 nav ul li a {
     color: #fff;
+    font-size: 18px;
     font-weight: 500;
     transition: color 0.3s;
 }
 
 nav ul li a:hover {
-    border: 1px solid #fff;
-    padding: 6px 12px;
-    border-radius: 6px;
-    font-family: 'poppins
+    color: #974e04;
+    
     
 }
 
@@ -79,7 +78,7 @@ nav ul li a:hover {
 .hero-text {
     flex: 1;
     min-width: 300px;
-    padding: 30px;
+    padding: 10px;
 }
 
 .hero-text h1 {
@@ -121,7 +120,6 @@ nav ul li a:hover {
 .hero-img img {
     border-radius: 20px;
     max-width: 90%;
-    /*box-shadow: 0 10px 25px rgba(0,0,0,0.1);*/
 }
 
 /* Courses Section */
